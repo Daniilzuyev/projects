@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# IDE
+.idea/
+.vscode/
+.DS_Store
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Data files (чтобы не пушить большие CSV)
+data/*.csv
+data/*.xlsx
+data/*.json
+
+# Output
+output/*.png
+output/*.pdf
+output/*.html

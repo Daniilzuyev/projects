@@ -1,0 +1,14 @@
+# Core libraries
+pandas==2.2.3
+numpy==1.26.4
+
+# Visualization
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Optional
+notebook==7.2.2
+ipykernel==6.29.5
+
+# For saving plots and reports
+pathlib==1.0.1
