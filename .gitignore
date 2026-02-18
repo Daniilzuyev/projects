@@ -1,0 +1,13 @@
+/.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+
+# Data artifacts
+/data/raw/
+/data/processed/*.parquet
+
+# Local IDE
+.idea/
