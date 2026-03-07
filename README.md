@@ -12,17 +12,12 @@ Exploratory Data Analysis projects with business insights and data visualization
 - `01_Sales_Dashboard` — Sales & Profit Analytics (Superstore dataset)
 - `02_Customer_Segmentation` — Customer patterns and behavioral clustering
 - `03_HR_Analytics_Dashboard` — Employee attrition and HR metrics
+- `04_retail_sales` — Ames Housing — Real Estate EDA
+- `05_credit_default` - UCI Credit Card Default
 
 ### 🤖 ML
 End-to-end machine learning models (regression, classification, clustering).
-
-### ⚙️ MLOps
-Model deployment, monitoring, CI/CD, Docker, Airflow, FastAPI.
-
-### 🧩 LLM
-Large Language Models, fine-tuning, RAG, prompt engineering experiments.
-
----
+- `spend-risk-ml` — Supplier Risk Early Warning (MVP)
 
 ## 🧰 Tech Stack
 - **Languages:** Python, SQL  
